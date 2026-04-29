@@ -5,4 +5,4 @@ nixPkgs = ["python311"]
 cmds = ["pip install -r requirements.txt"]
 
 [start]
-cmd = "xmint_bot1.py"
+cmd = "python bot_v9__1_.py"
